@@ -28,28 +28,20 @@
 
 🎨 DESIGN
 - Header: Fixed nav with categories (National, Politics, Business, etc.)
-
 - Hero Section: Prominent breaking news display
-
 - News Grid: Responsive card layout
-
 - Live Elements: Real-time clock and update status
   
 
-🚧 Challenges Solved
-Real-time updates - Used setInterval with proper cleanup
+🚧 CHALLENGES SOLVED
+- Real-time updates - Used setInterval with proper cleanup
+- Responsive layout - CSS Grid with auto-fit
+- Data fetching - Fetch API with error handling
+- State management - React hooks organization
 
-Responsive layout - CSS Grid with auto-fit
-
-Data fetching - Fetch API with error handling
-
-State management - React hooks organization
-
-🔮 Future Enhancements
-Search functionality
-
-Category filtering
-
-Dark mode toggle
+🔮 FUTURE ENHANCEMENTS
+- Search functionality
+- Category filtering
+- Dark mode toggle
 
 Bookmark articles
